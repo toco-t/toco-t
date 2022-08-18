@@ -1,4 +1,4 @@
-### *<div align="left">I'm Toco,  passionate about learning and exploring new technologies!</div>*  
+### **<div align="center">I'm Toco,  passionate about learning and exploring new technologies!</div>**  
   
 
 - Second-term BCIT Computer Systems Technology student in the Co-Op program.  
