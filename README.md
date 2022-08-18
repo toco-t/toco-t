@@ -53,9 +53,10 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toco-t&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toco-t&hide_border=true&layout=compact&theme=radical" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=toco-t&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=toco-t&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" />  
+
 
 <br/>  
 
