@@ -53,17 +53,9 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toco-t&hide_border=true&layout=compact" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=toco-t&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+<img src="https://github-readme-stats.vercel.app/api?username=toco-t&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
 
@@ -71,15 +63,9 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=toco-t&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
