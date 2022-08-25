@@ -1,10 +1,10 @@
 ### **<div align="center">I'm Toco,  passionate about learning and exploring new technologies!</div>**  
   
 
-- Second-term BCIT Computer Systems Technology student in the Co-Op program.  
+- Second-term BCIT Computer Systems Technology (CS) student in the Co-op program.  
   
 
-- Currently learning Java, Objective-C.  
+- Currently learning Java, C.  
   
 
 - Looking for a co-op job!  
