@@ -1,4 +1,4 @@
-### **<div align="center">I'm Toco,  passionate about learning and exploring new technologies!</div>**  
+![Header](./your-header-image-name.png)
   
 
 - Second-term BCIT Computer Systems Technology (CS) student in the Co-op program.  
