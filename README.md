@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
   
 
 - Second-term BCIT Computer Systems Technology (CS) student in the Co-op program.  
