@@ -1,13 +1,13 @@
 ![Header](./github-header-image.png)
   
 
-- Second-term BCIT Computer Systems Technology (CS) student in the Co-op program.  
+... Second-term BCIT Computer Systems Technology (CS) student in the Co-op program. 
   
 
-- Currently learning Java, C.  
+... Currently learning Java, C. 
   
 
-- Looking for a co-op job!  
+... Looking for a co-op job! 
   
 
 <br/>  
