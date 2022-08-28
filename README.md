@@ -1,13 +1,13 @@
 ![Header](./github-header-image.png)
   
 
-... Second-term BCIT Computer Systems Technology (CS) student in the Co-op program. 
+< Second-term BCIT Computer Systems Technology (CS) student in the Co-op program. />
   
 
-... Currently learning Java, C. 
+< Currently learning Java, C. /> 
   
 
-... Looking for a co-op job! 
+< Looking for a co-op job! />
   
 
 <br/>  
@@ -54,6 +54,8 @@
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toco-t&layout=compact&theme=radical" align="left" />  
+
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=toco-t&show_icons=true&count_private=true&theme=radical" align="left" />  
