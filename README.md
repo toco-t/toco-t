@@ -4,7 +4,7 @@
 ` ...second-term BCIT Computer Systems Technology (CS) student. `
   
 
-` ...currently learning Java, C. `
+` ...currently learning OOP in Java and procedural programming with C. `
   
 
 ` ...looking for co-op job opportunities! `
