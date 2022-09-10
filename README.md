@@ -36,8 +36,8 @@
 
 ## Github Stats  
 <div aligh="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toco-t&langs_count=8&layout=compact&theme=vue-dark" align="left" />  
-<img src="https://github-readme-stats.vercel.app/api?username=toco-t&show_icons=true&count_private=true&theme=vue-dark" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toco-t&langs_count=8&layout=compact&theme=vue-dark" align="center" style="margin-button: 10px"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=toco-t&show_icons=true&count_private=true&theme=vue-dark" align="center" style="margin-button: 10px"/>  
 </div>
 
 <br/>  
@@ -53,3 +53,5 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
+
+<br/>  
