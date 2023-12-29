@@ -1,14 +1,5 @@
 ![Header](./github-header-image.png)
-  
 
-` ...second-term BCIT Computer Systems Technology (CS) student. `
-  
-
-` ...currently learning OOP in Java and procedural programming with C. `
-  
-
-` ...looking for co-op job opportunities! `
-  
 
 <br/>  
 
@@ -40,11 +31,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=toco-t&show_icons=true&count_private=true&theme=vue-dark" align="center" style="margin-button: 10px"/>  
 </div>
 
-<br/>  
-
-  
-
-<br/>  
+<br/> 
 
 
 ## Connect with me  
